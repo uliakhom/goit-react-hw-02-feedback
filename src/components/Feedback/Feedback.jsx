@@ -3,7 +3,7 @@ import Section from "components/Section";
 import FeedbackOptions from "components/FeedbackOptions";
 import Statistics from "components/Statistics";
 import Notification from "components/Notification";
-import s from './feedback.module.css'
+
 
 const options = ['good', 'neutral', 'bad']
 
